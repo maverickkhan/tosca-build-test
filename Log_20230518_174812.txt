@@ -1,0 +1,33 @@
+[3] 5:48:12 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 5:48:12 pm: Log level: 4
+[3] 5:48:12 pm: Release: 16.0.1.3074
+[3] 5:48:14 pm: Execution Approval is disabled.
+[3] 5:48:14 pm: No service discovery configured.
+[3] 5:48:14 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 5:48:14 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 5:48:14 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 5:48:14 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 5:48:14 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 5:48:14 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 5:48:14 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 5:48:14 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 5:48:15 pm: Searcher found 0 results in 281.3354 ms
+[3] 5:48:15 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 5:48:15 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 5:48:15 pm: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[4] 5:48:28 pm:  ShowStatusInfo: 'Ready'
+[3] 6:04:41 pm: Layout not saved: No Panels or Tabbed Documents
+[3] 6:04:42 pm: Closing Workspace!
+[3] 6:04:42 pm: Log closed!

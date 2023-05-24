@@ -1,0 +1,31 @@
+[3] 9:36:06 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 9:36:06 pm: Log level: 4
+[3] 9:36:06 pm: Release: 16.0.1.3074
+[3] 9:36:07 pm: Execution Approval is disabled.
+[3] 9:36:07 pm: No service discovery configured.
+[3] 9:36:07 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 9:36:07 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 9:36:07 pm: Searcher found 0 results in 112.6501 ms
+[3] 9:36:07 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 9:36:07 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 9:36:07 pm: TCShell started (16.0.1.3074)
+[4] 9:36:07 pm: Current = 'sp_test'
+[3] 9:37:06 pm: Command: /Execution/ExecutionLists/RegistrationPage JumpToNode

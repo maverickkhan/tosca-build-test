@@ -1,0 +1,33 @@
+[3] 9:45:37 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 9:45:37 pm: Log level: 4
+[3] 9:45:37 pm: Release: 16.0.1.3074
+[3] 9:45:38 pm: Execution Approval is disabled.
+[3] 9:45:38 pm: No service discovery configured.
+[3] 9:45:38 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 9:45:38 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 9:45:38 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 9:45:38 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 9:45:38 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 9:45:39 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 9:45:39 pm: Searcher found 0 results in 126.6743 ms
+[3] 9:45:39 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 9:45:39 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 9:45:39 pm: TCShell started (16.0.1.3074)
+[4] 9:45:39 pm: Current = 'sp_test'
+[3] 9:45:39 pm: Closing Workspace!
+[3] 9:45:39 pm: Closing Workspace!
+[3] 9:45:39 pm: Log closed!

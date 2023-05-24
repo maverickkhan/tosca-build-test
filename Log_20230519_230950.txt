@@ -1,0 +1,34 @@
+[3] 11:09:50 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 11:09:50 pm: Log level: 4
+[3] 11:09:50 pm: Release: 16.0.1.3074
+[3] 11:09:51 pm: Execution Approval is disabled.
+[3] 11:09:51 pm: No service discovery configured.
+[3] 11:09:51 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 11:09:51 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 11:09:51 pm: Searcher found 0 results in 146.6748 ms
+[3] 11:09:51 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 11:09:51 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 11:09:51 pm: TCShell started (16.0.1.3074)
+[4] 11:09:51 pm: Current = 'sp_test'
+[3] 11:11:12 pm: Command: jumptonode
+[3] 11:12:03 pm: Command: "/Execution/ExecutionLists/SauceDemo test" jumptonode
+[3] 11:12:34 pm: Command: /Execution/ExecutionLists/TutorialsNinja jumptonode
+[3] 11:13:25 pm: Command: /Execution/ExecutionLists/Demotest jumptonode

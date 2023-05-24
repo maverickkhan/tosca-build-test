@@ -1,0 +1,42 @@
+[3] 11:33:21 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 11:33:21 pm: Log level: 4
+[3] 11:33:21 pm: Release: 16.0.1.3074
+[3] 11:33:22 pm: Execution Approval is disabled.
+[3] 11:33:22 pm: No service discovery configured.
+[3] 11:33:22 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 11:33:22 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 11:33:22 pm: Searcher found 0 results in 130.0825 ms
+[3] 11:33:22 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 11:33:22 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 11:33:22 pm: TCShell started (16.0.1.3074)
+[4] 11:33:22 pm: Current = 'sp_test'
+[3] 11:34:39 pm: Command: JumpToNode
+[4] 11:34:39 pm: Current = 'RegistrationPage'
+[3] 11:35:38 pm: Command: /Execution/ExecutionLists/RegistrationPage Settcparam
+[3] 11:36:14 pm: Command: Browser Chrome task
+[3] 11:36:15 pm: Task 'Run' started!
+[4] 11:36:16 pm:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 11:36:16 pm:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 11:36:16 pm:  ShowStatusInfo: 'Execution Running ...'
+[4] 11:36:43 pm:  ShowStatusInfo: 'Processing execution results ...'
+[3] 11:36:43 pm: AgentResults count: 2
+[3] 11:36:43 pm: executionResponses count: 2
+[3] 11:36:45 pm: Task 'Run' finished

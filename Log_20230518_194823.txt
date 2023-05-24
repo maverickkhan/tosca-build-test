@@ -1,0 +1,91 @@
+[3] 7:48:23 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 7:48:23 pm: Log level: 4
+[3] 7:48:23 pm: Release: 16.0.1.3074
+[3] 7:48:23 pm: Execution Approval is disabled.
+[3] 7:48:23 pm: No service discovery configured.
+[3] 7:48:23 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 7:48:23 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 7:48:23 pm: Searcher found 0 results in 11.0014 ms
+[3] 7:48:23 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 7:48:23 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 7:48:23 pm: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Ready'
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Ready'
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:48:47 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Ready'
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Ready'
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Ready'
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Ready'
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:48:48 pm:  ShowStatusInfo: 'Refresh all finished'
+[3] 7:48:48 pm: OpenWorkspace took 00:00:26.1689116 to finish
+[2] 7:48:48 pm: Common repository is not available
+[4] 7:48:53 pm:  ShowStatusInfo: 'Ready'
+[4] 7:49:04 pm:  ShowStatusInfo: '1 object selected'
+[4] 7:49:06 pm:  ShowStatusInfo: 'Ready'
+[4] 7:49:06 pm:  ShowStatusInfo: '1 object selected'
+[4] 7:49:11 pm:  ShowStatusInfo: 'Ready'
+[4] 7:49:25 pm:  ShowStatusInfo: '1 object selected'
+[4] 7:49:29 pm:  ShowStatusInfo: 'Ready'
+[4] 7:49:29 pm:  ShowStatusInfo: '1 object selected'
+[4] 7:49:34 pm:  ShowStatusInfo: 'Ready'
+[3] 7:49:53 pm: Closing Workspace!
+[3] 7:49:53 pm: Log closed!

@@ -1,0 +1,113 @@
+[3] 11:02:16 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 11:02:16 pm: Log level: 4
+[3] 11:02:16 pm: Release: 16.0.1.3074
+[3] 11:02:17 pm: Execution Approval is disabled.
+[3] 11:02:17 pm: No service discovery configured.
+[3] 11:02:17 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 11:02:17 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 11:02:17 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 11:02:17 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 11:02:17 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 11:02:17 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 11:02:17 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 11:02:18 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 11:02:18 pm: Searcher found 0 results in 208.5844 ms
+[3] 11:02:18 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 11:02:18 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 11:02:18 pm: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:02:31 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:02:32 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:02:33 pm:  ShowStatusInfo: 'Refresh all finished'
+[3] 11:02:33 pm: OpenWorkspace took 00:00:18.7439199 to finish
+[2] 11:02:33 pm: Common repository is not available
+[4] 11:02:34 pm:  ShowStatusInfo: '1 object selected'
+[4] 11:02:37 pm:  ShowStatusInfo: 'Ready'
+[4] 11:02:37 pm:  ShowStatusInfo: '1 object selected'
+[4] 11:02:39 pm:  ShowStatusInfo: 'Ready'
+[4] 11:03:38 pm:  ShowStatusInfo: '1 object selected'
+[4] 11:03:43 pm:  ShowStatusInfo: 'Ready'
+[4] 11:04:17 pm:  ShowStatusInfo: '1 object selected'
+[4] 11:04:22 pm:  ShowStatusInfo: 'Ready'
+[4] 11:04:22 pm:  ShowStatusInfo: 'Saving ...'
+[3] 11:04:22 pm:  Save started!
+[3] 11:04:22 pm: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:04:22 pm: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:04:22 pm: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:04:22 pm: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:04:22 pm: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:04:22 pm: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:04:23 pm:  Save finished!
+[4] 11:04:23 pm:  ShowStatusInfo: 'Saved successfully'
+[4] 11:04:23 pm:  ShowStatusInfo: 'Ready'
+[3] 11:04:27 pm: Closing Workspace!
+[3] 11:04:27 pm: Log closed!

@@ -1,0 +1,134 @@
+[3] 8:49:05 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 8:49:05 pm: Log level: 4
+[3] 8:49:05 pm: Release: 16.0.1.3074
+[3] 8:49:05 pm: Execution Approval is disabled.
+[3] 8:49:05 pm: No service discovery configured.
+[3] 8:49:05 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 8:49:05 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 8:49:05 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 8:49:05 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 8:49:05 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 8:49:05 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 8:49:05 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 8:49:05 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 8:49:06 pm: Searcher found 0 results in 155.5291 ms
+[3] 8:49:06 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 8:49:06 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 8:49:06 pm: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:49:14 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:49:15 pm:  ShowStatusInfo: 'Refresh all finished'
+[3] 8:49:15 pm: OpenWorkspace took 00:00:12.2510666 to finish
+[2] 8:49:15 pm: Common repository is not available
+[4] 8:49:20 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:27 pm:  ShowStatusInfo: '1 object selected'
+[4] 8:49:27 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:33 pm:  ShowStatusInfo: '1 object selected'
+[4] 8:49:34 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:47 pm:  ShowStatusInfo: '1 object selected'
+[4] 8:49:47 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:48 pm:  ShowStatusInfo: '1 object selected'
+[4] 8:49:48 pm:  ShowStatusInfo: 'Ready'
+[4] 8:49:48 pm:  ShowStatusInfo: '1 object selected'
+[4] 8:49:48 pm:  ShowStatusInfo: 'Ready'
+[4] 9:19:06 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:19:06 pm:  ShowStatusInfo: 'Ready'
+[4] 9:20:23 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:20:23 pm:  ShowStatusInfo: 'Ready'
+[4] 9:20:24 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:20:24 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:03 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:52:03 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:24 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:52:25 pm:  ShowStatusInfo: 'Ready'
+[3] 9:52:25 pm: Task 'Jump to Object' started on ''
+[4] 9:52:25 pm:  ShowStatusInfo: 'Jump to Object'
+[4] 9:52:27 pm:  ShowStatusInfo: 'Jump to Object finalizing ... '
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh navigation view 'sp_test''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 9:52:27 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh detail view 'sp_test''
+[4] 9:52:28 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 9:52:28 pm:  ShowStatusInfo: 'Refresh all finished'
+[4] 9:52:28 pm:  ShowStatusInfo: 'Jump to Object finished'
+[3] 9:52:28 pm: Task 'Jump to Object' finished
+[4] 9:52:29 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:52:29 pm:  ShowStatusInfo: 'Ready'
+[4] 9:52:36 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:52:36 pm:  ShowStatusInfo: 'Ready'
+[4] 9:54:20 pm:  ShowStatusInfo: '1 object selected'
+[4] 9:54:25 pm:  ShowStatusInfo: 'Ready'
+[3] 10:19:22 pm: Closing Workspace!
+[3] 10:19:22 pm: Log closed!

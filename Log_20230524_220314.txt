@@ -1,0 +1,56 @@
+[3] 10:03:14 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 10:03:14 pm: Log level: 4
+[3] 10:03:14 pm: Release: 16.0.1.3074
+[3] 10:03:16 pm: Execution Approval is disabled.
+[3] 10:03:16 pm: No service discovery configured.
+[3] 10:03:16 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 10:03:16 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:03:16 pm: Searcher found 0 results in 130.4519 ms
+[3] 10:03:16 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 10:03:16 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 10:03:16 pm: TCShell started (16.0.1.3074)
+[4] 10:03:16 pm: Current = 'sp_test'
+[3] 10:03:16 pm: Command: jumptonode
+[4] 10:03:16 pm: Current = 'RegistrationPage'
+[3] 10:03:16 pm: Command: /Execution/ExecutionLists/RegistrationPage task
+[3] 10:03:17 pm: Task 'Clear Log' started!
+[3] 10:03:17 pm: Command: "clear log" task
+[3] 10:03:17 pm: Task 'Run' started!
+[4] 10:03:18 pm:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 10:03:18 pm:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 10:03:19 pm:  ShowStatusInfo: 'Execution Running ...'
+[4] 10:03:38 pm:  ShowStatusInfo: 'Processing execution results ...'
+[3] 10:03:38 pm: AgentResults count: 2
+[3] 10:03:38 pm: executionResponses count: 2
+[3] 10:03:40 pm: Task 'Run' finished
+[3] 10:03:40 pm: Command: run save
+[3] 10:03:40 pm:  Save started!
+[3] 10:03:40 pm: QTestIntegrationAddIn beginning to Export to QTest
+[3] 10:03:40 pm: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 10:03:40 pm: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 10:03:40 pm: LinkTcToQTestService grouping testcases by same endpoint
+[3] 10:03:40 pm: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 10:03:40 pm: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 10:03:41 pm:  Save finished!
+[4] 10:03:41 pm: Current = 'sp_test'
+[3] 10:03:41 pm: Closing Workspace!
+[3] 10:03:41 pm: Closing Workspace!
+[3] 10:03:41 pm: Log closed!

@@ -1,0 +1,28 @@
+[3] 9:28:13 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 9:28:13 pm: Log level: 4
+[3] 9:28:13 pm: Release: 16.0.1.3074
+[3] 9:28:14 pm: Execution Approval is disabled.
+[3] 9:28:14 pm: No service discovery configured.
+[3] 9:28:14 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 9:28:14 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 9:28:14 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 9:28:14 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 9:28:14 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 9:28:15 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 9:28:15 pm: Searcher found 0 results in 135.2306 ms
+[3] 9:28:15 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 9:28:15 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)

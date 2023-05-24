@@ -1,0 +1,44 @@
+[3] 10:34:08 pm: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\sp_test\sp_test.tws'
+[3] 10:34:08 pm: Log level: 4
+[3] 10:34:08 pm: Release: 16.0.1.3074
+[3] 10:34:09 pm: Execution Approval is disabled.
+[3] 10:34:09 pm: No service discovery configured.
+[3] 10:34:09 pm:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.1.3074 (3074)
+    + : SAPSolutionManagerIntegration 16.0.1.3074 (3074)
+[3] 10:34:09 pm: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:34:09 pm: Searcher found 0 results in 145.0093 ms
+[3] 10:34:09 pm:  + OptIntAddIn: OptIntAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + RemoteControl: RemoteControlAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + Reporting: ReportingAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + ReportingUI: ReportingUIAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + RequirementsManagementAddIn: RequirementsManagement 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + TestCaseDesign: TestCaseDesign 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + XDefinitions: XDefinitions 16.0.1.3074 (3074)
+[3] 10:34:09 pm:  + XDefinitionsUI: XDefinitionsUI 16.0.1.3074 (3074)
+[3] 10:34:09 pm: TCShell started (16.0.1.3074)
+[4] 10:34:09 pm: Current = 'sp_test'
+[3] 10:35:33 pm: Command: jumptonode
+[4] 10:35:33 pm: Current = 'OpenUrl'
+[3] 10:35:41 pm: Command: /Execution/ExecutionLists/OpenUrl task
+[3] 10:35:42 pm: Task 'Run' started!
+[3] 10:35:42 pm: Unable to run the selected items. No TestStep found in associated TestCases.
+[3] 10:35:42 pm:  ** Run ** 
+[3] 10:35:42 pm: Unable to run the selected items. No TestStep found in associated TestCases.
+[3] 10:35:54 pm: Task 'Run' finished
+[3] 10:36:06 pm: Command: Run c task
+[3] 10:36:06 pm: Task 'Run' started!
+[3] 10:36:06 pm: Unable to run the selected items. No TestStep found in associated TestCases.
+[3] 10:36:06 pm:  ** Run ** 
+[3] 10:36:06 pm: Unable to run the selected items. No TestStep found in associated TestCases.
+[3] 10:36:09 pm: Task 'Run' finished

@@ -1,0 +1,4 @@
+jumptonode "/Execution/ExecutionLists/tp_test"
+task "clear log"
+task run
+save
